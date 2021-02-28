@@ -1,19 +1,21 @@
-# Rocketpay
+# RocketPay
+
+> Projeto totalmente desenvolvido e lecionado pelo [Rafael Camarda](https://github.com/RafaelCamarda) no evento Next Level Week da [Rocketseat](https://rocketseat.com.br/)
+
+**Leia as instruções abaixo:**
 
 To start your Phoenix server:
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+- Install dependencies with `mix deps.get`
+
+- Create and migrate your database with `mix ecto.setup`
+
+- Start Phoenix endpoint with `mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+---
 
-## Learn more
+baseado na [Stack Elixir NWL#4](https://github.com/rocketseat-education/nlw-04-elixir) e feito com o :point_up: porque lá na Rocketseat é com o :heart:
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+( ͡° ͜ʖ ͡°)
